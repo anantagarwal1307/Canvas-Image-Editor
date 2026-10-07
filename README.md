@@ -10,7 +10,7 @@ Upload any image, tweak it in real time using the HTML5 Canvas API and CSS filte
 
 | Resource | Link |
 |---|---|
-| 🌐 Live Site | [Open Editor](https://anantagarwal1307.github.io/Canvas-Image-Editor/) |
+| 🌐 Live Site | [Open Editor](https://anantagarwal1307.github.io/Canvas-Image-Editor/index.html) |
 | 📂 Repository | [GitHub Repo](https://github.com/anantagarwal1307/Canvas-Image-Editor) |
 
 ---
